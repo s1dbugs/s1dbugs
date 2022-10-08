@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/siddharth-rathore-a9a349194/](https://www.linkedin.com/in/siddharth-rathore-a9a349194/)
 
-- ⚡ Fun fact **I think I am Funny/Data Decorator**
+- ⚡ Fun fact **I think I am Funny/Learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
