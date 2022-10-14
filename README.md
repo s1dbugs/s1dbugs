@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Data**
 
-- 📫 How to reach me **siddhrthrathore@gmail.com**
+- 📫 How to reach me **linktr.ee/s1dbugs**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/siddharth-rathore-a9a349194/](https://www.linkedin.com/in/siddharth-rathore-a9a349194/)
 
