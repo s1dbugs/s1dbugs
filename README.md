@@ -21,9 +21,14 @@
 <p align="left">
 <a href="https://twitter.com/s1dbugs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="s1dbugs" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/siddharth-rathore-a9a349194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth-rathore-a9a349194" height="30" width="40" /></a>
+<a href="https://kaggle.com/s1dbugs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="s1dbugs" height="30" width="40" /></a>
 <a href="https://fb.com/rathore019@rediffmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rathore019@rediffmail.com" height="30" width="40" /></a>
 <a href="https://instagram.com/s1dbugs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s1dbugs" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/s1dbugs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="s1dbugs" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/s1dbugs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="s1dbugs" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/s1dbugs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="s1dbugs" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/siddharthrathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="siddharthrathore" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/siddharthrathore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="siddharthrathore" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -32,3 +37,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=s1dbugs&show_icons=true&locale=en&layout=compact" alt="s1dbugs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s1dbugs&show_icons=true&locale=en" alt="s1dbugs" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=s1dbugs&" alt="s1dbugs" /></p>
